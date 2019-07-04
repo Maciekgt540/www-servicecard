@@ -1,0 +1,79 @@
+body{
+	background-color:black;
+}
+
+#top{
+
+    background: linear-gradient(#800000, #d05304);
+
+}
+#bottom{
+
+	background-color:#274b7d;
+	
+}
+
+#middlemargin{
+	margin-left:20%;
+	margin-right:20%;
+	color:#fbe77c;
+}
+
+#middle{
+
+	background-color: #bc0b0b;
+
+}
+
+#logo{
+	position:relative;
+	left:20%;
+}
+
+#topmenu{
+
+	left:30%;
+	margin-left:12%;
+	margin-right:20%;
+	
+	
+}
+
+#menubutton{
+	font-size: 20;
+	 padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	border: none;
+
+}
+
+#menubutton:hover{
+	background-color:green;
+	color:white;
+	font-size:20;
+		
+}
+
+#logotekst{
+	font-size:120;
+	top:10%;
+	font-family:verdana;
+	position:absolute;
+}
+
+#zegarek{
+position:fixed;
+text-align:center;
+top:96.4%;
+right:1.5%;
+background-color:yellow;
+}
+#zegarek:hover{
+	background-color:yellow;
+}
+
+#button_zegar{
+	width:90px;
+}
